@@ -21,7 +21,7 @@ Usage
 2. Navigate to the directory where the program is located:
    cd CYS1_RSA_Tester
 3. Run the executable:
-   - On Linux: ./CYS1_RSA_Tester.exe
+   - On Linux: ./CYS1_RSA_Tester
    - On Windows: .\CYS1_RSA_Tester.exe
 
 Creator
